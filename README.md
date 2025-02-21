@@ -1,5 +1,6 @@
 Archivo README.md
-
+Nombre completo FANNY MIRANDA
+COHORTE 21
 Nombre del proyecto
     Proyecto Urban Grocers
         qa-project-Urban-Grocers-app-es
