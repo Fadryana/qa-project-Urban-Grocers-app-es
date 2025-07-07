@@ -1,11 +1,21 @@
-Archivo README.md
-Nombre completo FANNY MIRANDA
-COHORTE 21
-Nombre del proyecto
+# 👫 Soft Skills
+
+  -  ✔ Comunicación efectiva  
+  -  ✔ Adaptabilidad  
+  -  ✔ Empatía  
+  -  ✔ Ética profesional  
+  -  ✔ Observación y atención al detalle  
+---
+## Archivo README.md
+---
+### Nombre completo FANNY MIRANDA
+### COHORTE 21
+## Nombre del proyecto
     Proyecto Urban Grocers
         qa-project-Urban-Grocers-app-es
 
-Descripción del proyecto
+## Descripción del proyecto---
+
     Se está comprobando cómo la aplicación Urban Grocers crea kits de productos.
     Se han creado varias listas de comprobación, una de ellas
         es para el campo “name” en la solicitud de creación de un kit de productos.
