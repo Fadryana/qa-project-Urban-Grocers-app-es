@@ -31,7 +31,7 @@
         5.- README.md
         6.- .gitignore.
 
-Fuente de documentación utilizada
+### Fuente de documentación utilizada
     Servidor - Dirección del banco:
         https://cnt-836dc1b1-5baa-4079-9803-1c1363fa33e4.containerhub.tripleten-services.com
     Documentación de la API:
@@ -43,7 +43,7 @@ Fuente de documentación utilizada
             METODO: post
             ENDPOINT: /api/v1/kits
 
-Descripción de las tecnologías y técnicas utilizadas
+### Descripción de las tecnologías y técnicas utilizadas
     Se uso Python, el lenguaje de programación de los testers.
     PyCharm, se programo en dispositivo personal, proyecto en PyCharm
 
@@ -58,9 +58,7 @@ Descripción de las tecnologías y técnicas utilizadas
     Se uso para el archivo README.md
         el link: https://dillinger.io/ 
 
-
-
-# Proyecto Urban Grocers 
+#### Proyecto Urban Grocers 
 #
 # ***El nombre del proyecto***
 #       qa-project-Urban-Grocers-app-es.
